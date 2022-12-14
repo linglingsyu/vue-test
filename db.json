@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "title": "黃金瀑布",
+      "content": "金瓜石「黃金瀑布」即位於六坑口下方的長仁礦區，並位處往水湳洞的公路旁，顯眼的特色景觀金橙黃色的瀑布景象，因地勢落差比較大，所以形成瀑布景觀，更於金瓜石地區必定前來欣賞之景點，於早期瀑布的上游為採銅礦之處，經長年金屬礦產的沉積，經雨水滲入後流出，也讓金屬礦石的金黃色，成為瀑布壯麗的景觀，並於此原因也造就了現在的陰陽海的特殊景觀。",
+      "url": "https://img3.okgo.tw/titlepic/c3039_1.jpg",
+      "id": 5
+    },
+    {
+      "title": "猴硐貓村",
+      "content": "貓村的貓咪可與遊客親近，許多愛貓人士都會到此為貓咪們拍下可愛的照片，若是您也愛貓咪，因為白天較為炎熱，且貓咪們屬夜行性，故貓群多會隱匿於陰涼處，傍晚後較容易看見大量貓隻群聚的景況。想與貓咪們親近，「猴硐貓村」十分適合喔！",
+      "url": "https://img3.okgo.tw/titlepic/c2778_1.jpg",
+      "id": 6
+    },
+    {
+      "title": "大稻埕碼頭",
+      "content": "早期的大稻埕，原是平埔族的居住地，後來因萬華同安人發生激烈的械鬥，許多人便移至大稻埕定居，此後，這裡便成為台北盆地內的物資集散中心，與重要的外貿重要地點，當地的領事館、洋行、商號雲集，茶館、茶行林立，這裡便成了當時全口最大的茶葉、樟腦交易中心，今日的大稻埕，仍可在街道裡看出一些些的遺留下的歷史記錄，而碼頭更經常成為演出活動的舉辦地點，我相信這裡將永遠不會被人們所遺忘。",
+      "url": "https://img3.okgo.tw/titlepic/c508_1.jpg",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$B3eHPdM8TKlIgePP1uNUJ.cJsMZMcrV/jPQnrIEFRnHcEEMQkhlxy",
+      "type": "admin",
+      "collect": [],
+      "id": 1
+    },
+    {
+      "email": "asd@gmail.com",
+      "password": "$2a$10$SwmBktVPTGVjWbmAkNSum.C6hN/GOZ.5Zryk5rEFcif7fOHlprp8y",
+      "type": "member",
+      "collect": [],
+      "id": 2
+    }
+  ]
+}
